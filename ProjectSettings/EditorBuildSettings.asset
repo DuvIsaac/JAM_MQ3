@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SceneRecord.unity
     guid: d06763c13953be74894d3b37e5c2c2ef
+  - enabled: 1
+    path: Assets/Scenes/SceneCameraAPI.unity
+    guid: e0335afdaa6df6a4d8eacce286863e5a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fada1f46b9d2aa44e991a77acaf14190,
       type: 2}
