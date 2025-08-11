@@ -1,3 +1,7 @@
+# UPDATE!!! (2025.8.11)  
+
+### Package Manager 셋팅이 추가됨 사진 바꿨으니 알잘딱으로 다 설치하셈
+
 # 프로젝트 생성
 - Editer version 확인하기  
 - Universal 3D 설정하기  
